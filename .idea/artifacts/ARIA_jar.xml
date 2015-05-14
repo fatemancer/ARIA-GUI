@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ARIA:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ARIA_jar</output-path>
+    <root id="archive" name="ARIA.jar">
+      <element id="module-output" name="ARIA" />
+    </root>
+  </artifact>
+</component>
